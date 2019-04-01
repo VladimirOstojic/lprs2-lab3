@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="C:\Users\student\Desktop\lab03lprs2\SDK\SDK_Workspace\lab03lprs2_hw_platform\system.bit" key="lab03lprs2_hw_platform-bitFile"/>
+	<item value="C:\Users\student\Desktop\lab03lprs2\SDK\SDK_Workspace\hello_world\Debug\hello_world.elf" key="lab03lprs2_hw_platform-microblaze_0-initElf"/>
+	<item value="C:\Users\student\Desktop\lab03lprs2\SDK\SDK_Workspace\lab03lprs2_hw_platform\system_bd.bmm" key="lab03lprs2_hw_platform-bmmFile"/>
+</section>

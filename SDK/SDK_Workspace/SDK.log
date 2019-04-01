@@ -1,0 +1,33 @@
+09:59:39.719 INFO  - Processing command line option -hwspec C:\Users\student\Desktop\lab03lprs2\SDK\SDK_Export\hw\system.xml. 
+10:06:39.897 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+10:08:33.477 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+10:09:43.665 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+10:10:57.967 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/lab03lprs2/SDK/SDK_Workspace/lab03lprs2_hw_platform/download.bit" 
+10:17:07.301 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/lab03lprs2/SDK/SDK_Workspace/lab03lprs2_hw_platform/download.bit" 
+10:23:55.010 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:29:44.989 INFO  - Processing command line option -hwspec C:\Users\student\Desktop\lab03lprs2\SDK\SDK_Export\hw\system.xml. 
+09:29:45.887 INFO  - The hardware specification for project 'lab03lprs2_hw_platform' is different from C:\Users\student\Desktop\lab03lprs2\SDK\SDK_Export\hw\system.xml. 
+09:29:45.931 INFO  - Copied contents of C:\Users\student\Desktop\lab03lprs2\SDK\SDK_Export\hw\system.xml into \lab03lprs2_hw_platform\system.xml. 
+09:29:45.936 INFO  - Copied contents of C:\Users\student\Desktop\lab03lprs2\SDK\SDK_Export\hw\system.bit into \lab03lprs2_hw_platform\system.bit. 
+09:29:45.938 INFO  - Copied contents of C:\Users\student\Desktop\lab03lprs2\SDK\SDK_Export\hw\system_bd.bmm into \lab03lprs2_hw_platform\system_bd.bmm. 
+09:29:46.430 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+09:29:48.532 INFO  - Updating hardware inferred compiler options for hello_world. 
+09:29:48.570 INFO  - Clearing existing target manager status. 
+09:38:03.359 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/lab03lprs2/SDK/SDK_Workspace/lab03lprs2_hw_platform/download.bit" 
+09:47:26.308 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:47:42.312 INFO  - Processing command line option -hwspec C:\Users\student\Desktop\lab03lprs2\SDK\SDK_Export\hw\system.xml. 
+09:48:15.269 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/lab03lprs2/SDK/SDK_Workspace/lab03lprs2_hw_platform/download.bit" 
+09:48:58.561 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:49:17.158 INFO  - Processing command line option -hwspec C:\Users\student\Desktop\lab03lprs2\SDK\SDK_Export\hw\system.xml. 

@@ -1,0 +1,9 @@
+-batch 
+-create vga_peripheral 
+-ver 1.00.a 
+-dir "D:\materija\RA219-2015\lab3" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 8 
+-xps 
+-ise 
